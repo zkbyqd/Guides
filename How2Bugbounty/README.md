@@ -113,41 +113,41 @@ Bug Bounty Hunting is ideal for:
 - Basic knowledge of OWASP Top 10, HTTP, cookies, DevTools
 
 ### Week 1: Basics & Recon
-Day 01: Bug Bounty introduction videos (YouTube: NahamSec, InsiderPhD)
-Day 02: Read OWASP Top 10 Cheatsheet + open Burp Suite
-Day 03: Practise with Burp Suite: Proxy, Repeater, Target, Intruder
-Day 04: Learn subdomain recon: assetfinder, amass, httpx
-Day 05: Practice: Use Bugcrowd/HackerOne to scope a program
-Day 06: Read 3 bug write-ups (e.g. on hackerone.com/hacktivity)
+Day 01: Bug Bounty introduction videos (YouTube: NahamSec, InsiderPhD) \
+Day 02: Read OWASP Top 10 Cheatsheet + open Burp Suite \
+Day 03: Practise with Burp Suite: Proxy, Repeater, Target, Intruder \
+Day 04: Learn subdomain recon: assetfinder, amass, httpx \
+Day 05: Practice: Use Bugcrowd/HackerOne to scope a program \
+Day 06: Read 3 bug write-ups (e.g. on hackerone.com/hacktivity) \
 Day 07: Pause or play CTF on Hacker101 CTF (1 challenge)
 
 ### Week 2: Understanding vulnerabilities & web logic
-Day 08: Web Injection Basics: XSS (Reflected & Stored)
-Day 09: Practice PortSwigger Labs: XSS (DOM + Reflected)
-Day 10: Analysing authentication: Tokens, Sessions, Cookies
-Day 11: Learn IDOR (Insecure Direct Object Reference)
-Day 12: PortSwigger Lab: Broken Access Control / IDOR
-Day 13: Make Recon on a public program
+Day 08: Web Injection Basics: XSS (Reflected & Stored) \
+Day 09: Practice PortSwigger Labs: XSS (DOM + Reflected) \
+Day 10: Analysing authentication: Tokens, Sessions, Cookies \
+Day 11: Learn IDOR (Insecure Direct Object Reference) \
+Day 12: PortSwigger Lab: Broken Access Control / IDOR \
+Day 13: Make Recon on a public program \
 Day 14: Test e.g. on exposed endpoints, parameters, login pages
 
 ### Week 3: Find errors & prepare reporting
-Day 15: Test for CORS errors or outdated APIs
-Day 16: Learn about parameter pollution & open redirects
-Day 17: Search for errors in logout, password reset, auth bypass
-Day 18: Take screenshots & practice writing bug reports
-Day 19: Read 3 reports from HackerOne & analyse structure
-Day 20: Write 1 dummy bug report (practise with a non-real bug)
+Day 15: Test for CORS errors or outdated APIs \
+Day 16: Learn about parameter pollution & open redirects \
+Day 17: Search for errors in logout, password reset, auth bypass \
+Day 18: Take screenshots & practice writing bug reports \
+Day 19: Read 3 reports from HackerOne & analyse structure \
+Day 20: Write 1 dummy bug report (practise with a non-real bug) \
 Day 21: Rest or optionally upload your reports for review in Discord (e.g. NahamCon server)
 
 ### Week 4: Focus on practice & real report
-Day 22: Focus on 1 bug type (e.g. IDOR or Stored XSS)
-Day 23: Search specifically for one program (do not jump!)
-Day 24: Document everything: payloads, URLs, screenshots
-Day 25: Finalise a real report (also for "low severity")
-Day 26: Read Bug Bounty Disclosure Policies (Responsible Disclosure)
-Day 27: Submit or save report for review
+Day 22: Focus on 1 bug type (e.g. IDOR or Stored XSS) \
+Day 23: Search specifically for one program (do not jump!) \
+Day 24: Document everything: payloads, URLs, screenshots \
+Day 25: Finalise a real report (also for "low severity") \
+Day 26: Read Bug Bounty Disclosure Policies (Responsible Disclosure) \
+Day 27: Submit or save report for review \
 Day 28: Solve CTF or Hacker101 Challenge
 
 ### Recall and repetition
-Day 29: Reflect: What have you learnt? What to improve?
+Day 29: Reflect: What have you learnt? What to improve? \
 Day 30: Plan the next 30 days yourself and stick with it!
